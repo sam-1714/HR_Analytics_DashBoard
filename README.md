@@ -1,5 +1,3 @@
-![PowerBI-Banner](https://www.venturess.com/images/product/Power_BI/power_bi_banner.jpg)
-
 # Project Title: HR Analytics Dashboard - A Power BI Project 📊
 
 The HR Analytics Dashboard project aims to leverage simulated datasets representing diverse facets of a company's human resources activities to develop an insightful Power BI Dashboard. The primary objective is to showcase proficiency in cleansing, analyzing, transforming, modeling, visualizing, and deriving actionable insights from HR-related data using Power BI.
@@ -52,6 +50,7 @@ The HR Analytics Dashboard features a refined monochromatic design, ensuring vis
 
 ### Gender Analysis
 ![Power BI](Images/2.png)
+
 ![Power BI](Images/3.png)
 
 ### Job Title - Production Operator
